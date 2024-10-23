@@ -4,7 +4,7 @@
 - **Email:** palakgupta252002@gmail.com
 - **LinkedIn:** [linkedin.com/in/palak-gupta-92b928206](https://www.linkedin.com/in/palak-gupta-92b928206)
 - **GitHub:** [github.com/Palakds](https://github.com/Palakds)
-- 
+  
 ## About Me
 I am currently pursuing a **Masters in Mathematics** at Dr. B. R. Ambedkar National Institute of Technology, with a passion for data science, analysis, and visualization. I have hands-on experience in using **Power BI, Python, SQL**, and other technical tools to transform raw data into meaningful insights and actionable strategies.I am skilled in predictive analysis, data wrangling, statistical analysis, and more. My work spans across internships and projects where I developed data visualizations, optimized data cleaning processes, and analyzed diverse datasets for meaningful trends.
 
