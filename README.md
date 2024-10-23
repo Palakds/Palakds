@@ -13,7 +13,7 @@ I am currently pursuing a **Masters in Mathematics** at Dr. B. R. Ambedkar Natio
 - **Data Visualization**: Power BI, Dashboarding
 - **Data Science**: Machine Learning, Predictive Analysis
 - **Other Skills**: Advanced Excel, Business Analysis, Data Cleaning, Data Wrangling, Statistical Analysis, Survey Design
-- 
+  
 ## Experience
 
 ### Data Analyst Intern - KultureHire (September 2024)
@@ -24,7 +24,7 @@ I am currently pursuing a **Masters in Mathematics** at Dr. B. R. Ambedkar Natio
 ### Data Science Intern - Prodigy Infotech (July 2024)
 - Created impactful visualizations from World Bank and Titanic datasets (100,000+ data points).
 - Accelerated decision-making by 35% through clear, data-driven narratives.
-- 
+  
 ## Projects
 
 ### Power BI Report: Amazon Global Superstore Sales and Performance Analysis
